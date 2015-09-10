@@ -4,23 +4,11 @@
 
 ## Install it
 
+Install with an alias of `pc`, so we can `import 'tmpl.html!pc'` instead of having to do `import 'tmpl.html!system-paperclip'`.
+
 ```
-jspm install system-paperclip=github:apiv/system-paperclip
+jspm install pc=github:apiv/system-paperclip
 ```
-
-## Add `pc` plugin to your config.js
-
-This adds a shortcut to `system-paperclip`.
-
-```js
-System.config({
-    map: {
-        "pc": "system-paperclip"
-    }
-});
-```
-
-Now we can `import 'tmpl.html!pc'` instead of having to do `import 'tmpl.html!system-paperclip'`.
 
 ## Import
 
