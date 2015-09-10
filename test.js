@@ -1,3 +1,3 @@
-import tmpl from './paperclip.pc.html!system-paperclip';
+import tmpl from './test.pc.html!pc';
 
 console.log(tmpl.view());

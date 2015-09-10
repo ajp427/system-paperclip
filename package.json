@@ -1,7 +1,7 @@
 {
   "author": "Austin Pivarnik",
   "name": "system-paperclip",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Paperclip.js plugin for systemjs",
   "dependencies": {
     "jspm": "^0.16.2"

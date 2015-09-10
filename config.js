@@ -13,18 +13,12 @@ System.config({
     "npm:*": "jspm_packages/npm/*"
   },
 
-  meta: {
-    "*.pc.html": {
-      "loader": "system-paperclip"
-    }
-  },
-
   map: {
     "babel": "npm:babel-core@5.8.23",
     "babel-runtime": "npm:babel-runtime@5.8.20",
     "core-js": "npm:core-js@1.1.4",
     "paperclip": "npm:paperclip@3.0.18",
-    "system-paperclip": "paperclip.js",
+    "pc": "index",
     "github:jspm/nodelibs-process@0.1.1": {
       "process": "npm:process@0.10.1"
     },
