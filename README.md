@@ -7,7 +7,7 @@
 Install with an alias of `pc`, so we can `import 'tmpl.html!pc'` instead of having to do `import 'tmpl.html!system-paperclip'`.
 
 ```
-jspm install pc=github:apiv/system-paperclip
+jspm install pc=npm:system-paperclip
 ```
 
 ## Import

@@ -1,11 +1,15 @@
 {
   "author": "Austin Pivarnik",
   "name": "system-paperclip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Paperclip.js plugin for systemjs",
   "dependencies": {
     "jspm": "^0.16.2"
   },
+  "homepage": "https://github.com/apiv/system-paperclip",
+  "bugs": {
+    "url": "https://github.com/apiv/system-paperclip/issues"
+  }
   "jspm": {
     "directories": {},
     "dependencies": {
