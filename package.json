@@ -9,7 +9,7 @@
   "homepage": "https://github.com/apiv/system-paperclip",
   "bugs": {
     "url": "https://github.com/apiv/system-paperclip/issues"
-  }
+  },
   "jspm": {
     "directories": {},
     "dependencies": {
